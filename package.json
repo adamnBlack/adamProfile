@@ -1,5 +1,6 @@
 {
   "name": "3d-portfoio",
+  "main" : "main.jsx",
   "private": true,
   "homepage": "https://adamnBlack.github.io/adamProfile/",
   "version": "0.0.0",
